@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tavern.API", "Tavern.API.csproj", "{739CC64B-1216-469F-9231-9F0C8B6DD930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739CC64B-1216-469F-9231-9F0C8B6DD930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739CC64B-1216-469F-9231-9F0C8B6DD930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739CC64B-1216-469F-9231-9F0C8B6DD930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739CC64B-1216-469F-9231-9F0C8B6DD930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88FE16E8-D8F2-4AC1-97E3-8536E1D2E13B}
+	EndGlobalSection
+EndGlobal
